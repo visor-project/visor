@@ -1,5 +1,6 @@
-# visor
-Visor is an advanced and ready-to-use webview-based ui frontend kit (and more)
+# WUSY
+### Web Ui SYstem
+Wusy is an minimalistic, advanced, webview-based ui frontend kit (and more)
 
 
 ### COMING SOON
